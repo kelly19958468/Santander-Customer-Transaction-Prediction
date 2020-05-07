@@ -1,0 +1,2 @@
+# Santander-Customer-Transaction-Prediction
+I first processed and cleaned the data, deleted outliers, and I tried to build the model and predict, and found that the data of the target variable is unbalanced, which is likely to cause prediction errors. Therefore, the sampling method is changed. After oversampling to balance the data, the model prediction can obtain a better prediction. Then compare the two methods with the ensemble learning model, the best model can be obtained in integrated learning.
